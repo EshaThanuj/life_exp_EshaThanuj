@@ -1,0 +1,29 @@
+---
+title: " examine life expectancy"
+date: today
+format: html
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+```{r}
+#| include: false
+install.packages("gapminder")
+```
+```{r}
+#| include: false
+install.packages("pacman")
+```
+
+```{r}
+library(gapminder)
+library(pacman)
+```
+
+# Abstract
+
+# analysis
+
