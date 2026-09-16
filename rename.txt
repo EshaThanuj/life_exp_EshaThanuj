@@ -1,0 +1,5 @@
+hello
+
+Remember, when adding more to the file in terminal, one ">" overrides the file. ">>" appends, adds to the file underneath. 
+
+my name is esha
